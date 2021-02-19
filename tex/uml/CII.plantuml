@@ -1,0 +1,84 @@
+@startuml Studio_1_Activity_Diagram
+
+skinparam ActivityFontColor automatic
+skinparam ActivityBackgroundColor #AliceBlue
+skinparam ActivityBorderColor #transparent
+skinparam ActivityStartColor #Blue
+skinparam ActivityEndColor #Green
+skinparam PartitionBorderColor #white
+skinparam ArrowColor #RoyalBlue
+
+start
+
+partition **introduction** {
+    :Document information
+    [[UC1ST1103/Analysis/tex/02_introduction.tex]];
+    :Another Document
+    [[UC1ST1103/Analysis/document.pdf]];
+    :Introduction (to topic);
+    :Critical Information;
+    :Infrastructure;
+    :Thesis statement;
+    :Subject Matter;
+    :Exclusions;
+}
+
+partition **Body** {
+    partition Paragraph1 {
+        :**Topic Sentence**
+        Everything relies on
+        the infrastructure;
+
+    }
+    
+    partition Paragraph2 {
+        :**Topic Sentence**
+        Holistic approach and
+        extensive collatoration
+        is required;
+    }
+    
+    partition Paragraph2 {
+        :**Topic Sentence**
+        The case of trust;
+    }
+    
+    :This is
+     a ratherlengthy text;
+}
+
+end
+
+@enduml
+
+@startuml Test_Studio_1_Activity_Diagram
+
+skinparam ActivityFontColor automatic
+skinparam ActivityBackgroundColor #AliceBlue
+skinparam ActivityBorderColor #transparent
+skinparam ActivityStartColor #Blue
+skinparam ActivityEndColor #Green
+skinparam PartitionBorderColor #white
+skinparam ArrowColor #RoyalBlue
+
+start
+
+:**Topic Sentence** Everything relies on the infrastructure;
+
+    
+:This is a ratherlengthy text;
+
+
+end
+
+@enduml
+
+
+@startuml test
+
+entity "TEST" as test {
+    Test1
+    Test2
+}
+
+@enduml
