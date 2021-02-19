@@ -12,11 +12,11 @@ start
 
 partition **introduction** {
     :Document information
-    [[Studio1_Analysis/tex/Studio_1_Activity_Diagram.svg]];
+    [[../README.md]];
     :Another Document
-    [[Studio1_Analysis/document.pdf]];
+    [[../document.pdf]];
     :Introduction (to topic)
-    [[Studio1_Analysis/tex/Studio_1_Activity_Diagram.svg]];
+    [[Studio_1_Activity_Diagram.svg]];
     :Critical Information;
     :Infrastructure;
     :Thesis statement;
