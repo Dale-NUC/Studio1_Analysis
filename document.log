@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.11.16)  19 FEB 2021 15:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.11.16)  19 FEB 2021 18:03
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/home/operations/Studies/UC1ST1103/Analysis/document.tex
-(/home/operations/Studies/UC1ST1103/Analysis/document.tex
+**/home/operations/Studies/Studio1_Analysis/document.tex
+(/home/operations/Studies/Studio1_Analysis/document.tex
 LaTeX2e <2020-02-02> patch level 2
 L3 programming layer <2020-02-14> (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
@@ -22,7 +22,7 @@ File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen134
-) (/home/operations/Studies/UC1ST1103/Analysis/mystyle.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+) (/home/operations/Studies/Studio1_Analysis/mystyle.sty (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
  (/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
@@ -869,7 +869,7 @@ Package csquotes Info: Redefining alias 'default' -> 'english'.
 File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
 \l__kernel_color_stack_int=\count464
 \l__pdf_internal_box=\box109
-) (/home/operations/Studies/UC1ST1103/Analysis/document.aux)
+) (/home/operations/Studies/Studio1_Analysis/document.aux)
 \openout1 = `document.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 101.
@@ -912,7 +912,7 @@ Package hyperref Info: Link coloring OFF on input line 101.
 LaTeX Info: Redefining \ref on input line 101.
 LaTeX Info: Redefining \pageref on input line 101.
 LaTeX Info: Redefining \nameref on input line 101.
- (/home/operations/Studies/UC1ST1103/Analysis/document.out) (/home/operations/Studies/UC1ST1103/Analysis/document.out)
+ (/home/operations/Studies/Studio1_Analysis/document.out) (/home/operations/Studies/Studio1_Analysis/document.out)
 \@outlinefile=\write5
 \openout5 = `document.out'.
 
@@ -947,7 +947,7 @@ Package biblatex Info: Automatic encoding selection.
 
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'document.bbl' found.
- (/home/operations/Studies/UC1ST1103/Analysis/document.bbl)
+ (/home/operations/Studies/Studio1_Analysis/document.bbl)
 Package biblatex Info: Reference section=0 on input line 101.
 Package biblatex Info: Reference segment=0 on input line 101.
 
@@ -988,15 +988,15 @@ Package biblatex Info: Reference segment=0 on input line 101.
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
 (lastpage)             ! on input line 101.
-(/home/operations/Studies/UC1ST1103/Analysis/tex/01_title.tex
-<Noroff-Logo.png, id=35, 240.9pt x 236.5638pt>
+(/home/operations/Studies/Studio1_Analysis/tex/01_title.tex
+<Noroff-Logo.png, id=71, 240.9pt x 236.5638pt>
 File: Noroff-Logo.png Graphic file (type png)
 <use Noroff-Logo.png>
-Package pdftex.def Info: Noroff-Logo.png  used on input line 34.
+Package pdftex.def Info: Noroff-Logo.png  used on input line 37.
 (pdftex.def)             Requested size: 50.91396pt x 50.0pt.
  [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} </home/operations/Studies/UC1ST1103/Analysis/Noroff-Logo.png>]) (/home/operations/Studies/UC1ST1103/Analysis/document.toc
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} </home/operations/Studies/Studio1_Analysis/Noroff-Logo.png>]) (/home/operations/Studies/Studio1_Analysis/document.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 6.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -1005,42 +1005,61 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 \tf@toc=\write6
 \openout6 = `document.toc'.
 
- [2] (/home/operations/Studies/UC1ST1103/Analysis/tex/02_introduction.tex
-LaTeX Font Info:    Trying to load font information for TS1+cmss on input line 32.
+ [2] (/home/operations/Studies/Studio1_Analysis/tex/02_introduction.tex) [1] (/home/operations/Studies/Studio1_Analysis/tex/03_body_section_01.tex
+LaTeX Font Info:    Trying to load font information for TS1+cmss on input line 36.
  (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmss.fd
 File: ts1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
-)) [1] (/home/operations/Studies/UC1ST1103/Analysis/tex/04_body_conclusion.tex) [2] (/home/operations/Studies/UC1ST1103/Analysis/tex/05_appendix.tex) [3]
+) [2]
+Underfull \hbox (badness 3354) in paragraph at lines 77--78
+[]\T1/cmss/m/n/10 <<\T1/cmss/m/it/10 comment or yyyy mm
+ []
 
-LaTeX Warning: Empty bibliography on input line 203.
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 157--157
+[]\T1/cmss/bx/n/10 Item
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 173--173
+[]\T1/cmss/bx/n/10 Item
+ []
+
+[4]) [5] (/home/operations/Studies/Studio1_Analysis/tex/04_conclusion.tex) [6] (/home/operations/Studies/Studio1_Analysis/tex/05_appendix.tex) [7]
+
+LaTeX Warning: Empty bibliography on input line 143.
 
 
 AED: lastpage setting LastPage
-[4]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 205.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 205.
- (/home/operations/Studies/UC1ST1103/Analysis/document.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 205.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 205.
+[8]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 145.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 145.
+ (/home/operations/Studies/Studio1_Analysis/document.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 145.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 145.
 Package rerunfilecheck Info: File `document.out' has not changed.
-(rerunfilecheck)             Checksum: A5ED359509CE23B875977D86DC6360FA;374.
+(rerunfilecheck)             Checksum: 35B96000FE4BEFAD0657D738C12ACD3B;1084.
 Package logreq Info: Writing requests to 'document.run.xml'.
 \openout1 = `document.run.xml'.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 205.
- ) 
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 145.
+ )
+(\end occurred inside a group at level 1)
+
+### simple group (level 1) entered at line 5 ({)
+### bottom level 
 Here is how much of TeX's memory you used:
- 28507 strings out of 481239
- 532958 string characters out of 5920376
- 1302452 words of memory out of 5000000
- 43243 multiletter control sequences out of 15000+600000
- 539599 words of font info for 34 fonts, out of 8000000 for 9000
+ 28563 strings out of 481239
+ 533663 string characters out of 5920376
+ 1305630 words of memory out of 5000000
+ 43263 multiletter control sequences out of 15000+600000
+ 543590 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 69i,11n,107p,985b,4848s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texmf/fonts/type1/public/cm-super/sfss1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss2074.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx2074.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx2488.pfb>
-Output written on /home/operations/Studies/UC1ST1103/Analysis/document.pdf (6 pages, 136277 bytes).
+ 69i,12n,107p,983b,4848s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texmf/fonts/type1/public/cm-super/sfsi1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfso1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfso1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss2074.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss2488.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx2074.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx2488.pfb>
+Output written on /home/operations/Studies/Studio1_Analysis/document.pdf (10 pages, 219270 bytes).
 PDF statistics:
- 121 PDF objects out of 1000 (max. 8388607)
- 101 compressed objects within 2 object streams
- 15 named destinations out of 1000 (max. 500000)
- 74 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 232 PDF objects out of 1000 (max. 8388607)
+ 202 compressed objects within 3 object streams
+ 43 named destinations out of 1000 (max. 500000)
+ 146 words of extra memory for PDF output out of 10000 (max. 10000000)
 

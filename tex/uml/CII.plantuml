@@ -12,7 +12,7 @@ start
 
 partition **introduction** {
     :Document information
-    [[../README.md]];
+    [[tex/02_introduction.tex]];
     :Another Document
     [[../document.pdf]];
     :Introduction (to topic)

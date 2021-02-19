@@ -3,14 +3,32 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {1}Introduction}{1}{section.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.1}Key dates}{1}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.1}Document Information}{1}{subsection.1.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {1.2}Course Tutors}{1}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.2}Course Lecturers}{1}{subsection.1.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {1.2.1}Study goals}{1}{subsubsection.1.2.1}%
+\contentsline {section}{\numberline {2}Lesson <<{\emph {number}}>>: <<{\emph {Lesson topic}}>>}{2}{section.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2}Conclusion}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Reflection on the days lecture and tutorial}{2}{subsection.2.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {A}Appendix}{3}{appendix.A}%
+\contentsline {subsection}{\numberline {2.2}Reflection Topics}{2}{subsection.2.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {B}Bibliography}{4}{appendix.B}%
+\contentsline {subsubsection}{\numberline {2.2.1}Provided topic 1}{3}{subsubsection.2.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.2.2}Provided topic 2}{3}{subsubsection.2.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3}Key Take-Away}{3}{subsection.2.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.4}Lessons Learned}{4}{subsection.2.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.5}Action Points - Further Reading/Enquiry}{4}{subsection.2.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.6}Other source materials}{4}{subsection.2.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.7}Issues/Solutions Noted and Area of Improvements}{4}{subsection.2.7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3}Conclusion}{6}{section.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A}Appendix}{7}{appendix.A}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {B}Bibliography}{8}{appendix.B}%
