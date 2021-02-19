@@ -12,10 +12,11 @@ start
 
 partition **introduction** {
     :Document information
-    [[UC1ST1103/Analysis/tex/02_introduction.tex]];
+    [[Studio1_Analysis/tex/Studio_1_Activity_Diagram.svg]];
     :Another Document
-    [[UC1ST1103/Analysis/document.pdf]];
-    :Introduction (to topic);
+    [[Studio1_Analysis/document.pdf]];
+    :Introduction (to topic)
+    [[Studio1_Analysis/tex/Studio_1_Activity_Diagram.svg]];
     :Critical Information;
     :Infrastructure;
     :Thesis statement;
@@ -50,6 +51,19 @@ partition **Body** {
 end
 
 @enduml
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 @startuml Test_Studio_1_Activity_Diagram
 
