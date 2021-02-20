@@ -10,13 +10,14 @@ skinparam ArrowColor #RoyalBlue
 
 start
 
-partition **introduction** {
+partition **introduction** #PaleGreen {
     :Document information
     [[tex/02_introduction.tex]];
-    :Another Document
-    [[../document.pdf]];
+    :Define the subject matter;
+    :Define the thesis -
+    The Circle Of Trust;
+    :Define exclusions
     :Introduction (to topic)
-    [[Studio_1_Activity_Diagram.svg]];
     :Critical Information;
     :Infrastructure;
     :Thesis statement;
@@ -25,27 +26,95 @@ partition **introduction** {
 }
 
 partition **Body** {
-    partition Paragraph1 {
+    
+    partition Paragraph1 #Yellow {
+        :**Topic Sentence**
+        The issue of definition;
+        :Why definitions are important;
+        :Norways definition differs from EU;
+        :Different country defines different threath models;
+        :Diffent difinitions of priority;
+    }
+
+    partition Paragraph2 {
         :**Topic Sentence**
         Everything relies on
         the infrastructure;
-
+        :Define the infrastructure;
+        :Define Financial Industry;
+        :Define Telecommunication Industry;
+        :Outline CySec status Norways Financial
+        and Telecommunication industry;
+        :Summarize NSM and PST reports relevant
+        to the 2 industries in scope;
     }
-    
-    partition Paragraph2 {
+
+    partition Paragraph3 {
         :**Topic Sentence**
         Holistic approach and
         extensive collatoration
         is required;
+        :Reiterate the objectives
+        stated in Norways Cyber Security strategies;
+        :Address guidelines and policies from
+        PST
+        NSM
+        FT
+        and Justice Dep;
+        :Describe how Norways authorities delegates
+        CySec responsibility
+        Coordinate efforts
+        Enfoce policies;
+        :Emphazise that Norway require many entities
+        to mange and coordinate Cyber Secuity effort;
+        :Explain the advantages and disadvantages
+        with such an approach;
+        :Establish why an Holitic approach
+        to CySec may be that better;
+        :Provide example and justify such an approach;
     }
     
-    partition Paragraph2 {
+    partition Paragraph4 {
         :**Topic Sentence**
         The case of trust;
+        :Trust is key for cooperation and collaboration;
+        :Describe why CySec is not purely a techinical issue;
+        :Define what Circle of Trust entails;
+        :Establish how CySec and
+        Privacy are interlinked;
+        :Summarize how Privacy are managed
+        in EU;
+        :Describe how EU and Norway plan to
+        establish
+        balance
+        and enforce the cirle of trust;
     }
-    
-    :This is
-     a ratherlengthy text;
+
+    partition Paragraph5 {
+        :**Topic Sentence**
+        State of Inforation & Comminucation Infrastructure
+        is not too bad in Norway;
+        :Compared to
+        Sweden,
+        Denmark,
+        Finland,
+        Iceland,
+        UK,
+        Russia,
+        France,
+        The Netherlands,
+        and Bulgaria. . ;
+
+    }
+
+}
+
+partition Conclusion {
+    :Gather the golden thread;
+    :Reemphezise that TRUST IS KEY;
+    :Technical solutions are only part of the solution;
+    :This is shit is going to be a rather
+    lengthy paper;
 }
 
 end
