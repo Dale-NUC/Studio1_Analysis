@@ -1,10 +1,10 @@
 # Fdb version 3
-["biber document"] 1613764166 "document.bcf" "document.bbl" "document" 1613787465
+["biber document"] 1613764166 "document.bcf" "document.bbl" "document" 1613787858
   "document.bcf" 1613787465 115142 531fac6265e6dc87191629c34b55f846 "pdflatex"
   (generated)
-  "document.blg"
   "document.bbl"
-["pdflatex"] 1613787463 "/home/operations/Studies/Studio1_Analysis/document.tex" "/home/operations/Studies/Studio1_Analysis/document.pdf" "document" 1613787465
+  "document.blg"
+["pdflatex"] 1613787463 "/home/operations/Studies/Studio1_Analysis/document.tex" "/home/operations/Studies/Studio1_Analysis/document.pdf" "document" 1613787858
   "/etc/texmf/web2c/texmf.cnf" 1605541955 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/home/operations/Studies/Studio1_Analysis/document.aux" 1613787465 4960 ab3989fc7c7748161bd84643c5a98362 ""
   "/home/operations/Studies/Studio1_Analysis/document.tex" 1613754016 5108 7091cb1af59c7d86cbebdeabf4c5223d ""
@@ -227,17 +227,17 @@
   "document.toc" 1613787465 2418 0143c8c53090db91f94378e53a3d1b67 "pdflatex"
   "mystyle.sty" 1613746067 1520 97cb88139fb1cb9e53030be3b293ea1c ""
   "tex/01_title.tex" 1613752180 633 48350a1d1cf2da2762c5c8ac992a97c0 ""
-  "tex/02_introduction.tex" 1613787463 3915 82740448de1b7d16c78824eb0c4326f1 ""
+  "tex/02_introduction.tex" 1613787857 3915 82740448de1b7d16c78824eb0c4326f1 ""
   "tex/03_body_section_01.tex" 1613754206 6707 932e306b44ffbea7646885796239a6a7 ""
   "tex/04_conclusion.tex" 1613753918 206 827e6122e14e44af24beb4d71dee6199 ""
   "tex/05_appendix.tex" 1613746067 40 25d5000b9ef6ffd13578761df5604690 ""
   (generated)
+  "/home/operations/Studies/Studio1_Analysis/document.log"
   "document.aux"
-  "/home/operations/Studies/Studio1_Analysis/document.pdf"
   "document.out"
   "document.run.xml"
   "document.log"
-  "document.bcf"
-  "/home/operations/Studies/Studio1_Analysis/document.log"
-  "document.pdf"
   "document.toc"
+  "document.bcf"
+  "document.pdf"
+  "/home/operations/Studies/Studio1_Analysis/document.pdf"

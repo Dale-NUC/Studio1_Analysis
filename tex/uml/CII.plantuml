@@ -10,7 +10,7 @@ skinparam ArrowColor #RoyalBlue
 
 start
 
-partition **introduction** #PaleGreen {
+partition **introduction** #Yellow {
     :Document information
     [[tex/02_introduction.tex]];
     :Define the subject matter;
@@ -27,7 +27,7 @@ partition **introduction** #PaleGreen {
 
 partition **Body** {
     
-    partition Paragraph1 #Yellow {
+    partition Paragraph1 #Coral {
         :**Topic Sentence**
         The issue of definition;
         :Why definitions are important;
