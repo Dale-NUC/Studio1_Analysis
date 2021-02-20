@@ -8,7 +8,7 @@
 - Orange = planned
 - Red = falling behind plan
 
-plantUML svg image:
+PlantUML svg image:
 
 ![Activity Diagram](tex/Studio_1_Activity_Diagram.svg)
 
