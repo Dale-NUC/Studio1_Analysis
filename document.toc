@@ -7,28 +7,34 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {1.2}Course Lecturers}{1}{subsection.1.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2}Lesson <<{\emph {number}}>>: <<{\emph {Lesson topic}}>>}{2}{section.2}%
+\contentsline {subsection}{\numberline {1.3}Subject Matter}{1}{subsection.1.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.1}Reflection on the days lecture and tutorial}{2}{subsection.2.1}%
+\contentsline {subsection}{\numberline {1.4}Exclusions}{2}{subsection.1.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2}Reflection Topics}{2}{subsection.2.2}%
+\contentsline {subsection}{\numberline {1.5}Circle of trust}{2}{subsection.1.5}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.2.1}Provided topic 1}{3}{subsubsection.2.2.1}%
+\contentsline {section}{\numberline {2}Lesson <<{\emph {number}}>>: <<{\emph {Lesson topic}}>>}{3}{section.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.2.2}Provided topic 2}{3}{subsubsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.1}Reflection on the days lecture and tutorial}{3}{subsection.2.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.3}Key Take-Away}{3}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.2}Reflection Topics}{3}{subsection.2.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.4}Lessons Learned}{4}{subsection.2.4}%
+\contentsline {subsubsection}{\numberline {2.2.1}Provided topic 1}{4}{subsubsection.2.2.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.5}Action Points - Further Reading/Enquiry}{4}{subsection.2.5}%
+\contentsline {subsubsection}{\numberline {2.2.2}Provided topic 2}{4}{subsubsection.2.2.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.6}Other source materials}{4}{subsection.2.6}%
+\contentsline {subsection}{\numberline {2.3}Key Take-Away}{4}{subsection.2.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.7}Issues/Solutions Noted and Area of Improvements}{4}{subsection.2.7}%
+\contentsline {subsection}{\numberline {2.4}Lessons Learned}{5}{subsection.2.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3}Conclusion}{6}{section.3}%
+\contentsline {subsection}{\numberline {2.5}Action Points - Further Reading/Enquiry}{5}{subsection.2.5}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {A}Appendix}{7}{appendix.A}%
+\contentsline {subsection}{\numberline {2.6}Other source materials}{5}{subsection.2.6}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {B}Bibliography}{8}{appendix.B}%
+\contentsline {subsection}{\numberline {2.7}Issues/Solutions Noted and Area of Improvements}{5}{subsection.2.7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3}Conclusion}{7}{section.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A}Appendix}{8}{appendix.A}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {B}Bibliography}{9}{appendix.B}%
