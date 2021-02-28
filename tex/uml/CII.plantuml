@@ -27,6 +27,156 @@ partition **introduction** #Yellow {
 
 partition **Body** {
     
+    partition Paragraph1 {
+        :**Topic Sentence**
+        What accounts for a
+        successfull Cyber Secuyrity Strategy;
+        :There are different components;
+        :The NIS framework and strategy;
+        :The Norwegian framework and strategy; 
+    }
+
+    partition Paragraph {
+        :**Topic Sentence**
+        That stake holders;
+        :Norways international partners;
+        note right
+            UN
+            NATO
+            the EU
+            the OECD and
+            the OSCE
+        end note
+        :EU's internal agencies
+        :EU's international partners;
+
+    }
+
+    Partition Paragraph1 {
+        :**Topic Sentence***
+        The EU approach;
+        :The EU legislation process;
+        note right
+            A directive is 1 of 3 type of legislative acts, [[https://ec.europa.eu/info/law/law-making-process/types-eu-law_en, legal acts or laws]], in EU.
+
+            3 type are:
+            - Decision
+            - Directive
+                (example: NIS)
+            - Regulation
+                (Example: GDPR)
+        end note
+        :NIS;
+        note right 
+            NIS = European Network and Information Security Directive,
+            [[https://www.enisa.europa.eu/topics/nis-directive]] 
+        end note
+        :NCSS;
+        note right
+            European Security Union
+            [[https://ec.europa.eu/info/strategy/priorities-2019-2024/promoting-our-european-way-life/european-security-union_en, new NCSS]]
+        end note
+        :Pan-European-Union standard;
+    }
+
+
+    Partition Paragraph1 {
+        :**Topic Sentence***
+        The Norwegian approach;
+        
+        :The policy and political process behind the scenes and definitions;
+
+        :Councils and committees;
+        note right
+            [[https://www.regjeringen.no/no/dokumenter/i2/id2681603/, Ministry of Foreign Affairs]]
+            Thierry Breton
+            Commission of Digital Services, ePrivacy,
+            and EU's dta strategy.
+        end note
+        
+        :What are NOU (Norges offentlige utredninger);
+        note right
+            **Definition**
+            NOU = Norges offentlige utredninger
+            by [[https://snl.no/Norges_offentlige_utredninger_(NOU), Norges Store Leksikon]]
+
+            **The Process**
+            - A government or any of its departments recognizes a problem-area,
+            an issue, and is set on a task to remediate for the country's
+            electorate and society at large.
+
+            - The department entity then establishes a committee, a council,
+            whom are designated a mandate and an objective to work on the case.
+
+            - The committee can be comprised of many different entities. Both
+            public, private or ideal organizations. Researchers, subject matter
+            experts or anyone who may provide valuable contributution to the
+            endevour.
+
+            - The committee is tasked to investigate and report their findings
+            back to the responsible/sponsor government department.
+
+            - The findings are subject further for debate and political process
+            by the departments, public or private organizations or other
+            stakeholders and interested parties.
+
+            - The process will decide if there is merit for the findings to
+            be submitted and presented to the parliament for legislative process.
+            The findings are presented as a white paper, a Stortingsmelding,
+            which will be a 
+        end note
+        
+        :Stortingsmelding/White Paper;
+        note right
+            :[[https://www.regjeringen.no/no/dep/jd/org/styre-rad-og-utval/innstillinger/innstillinger-fra-utvalg/innstillinger-levert-i-2018/IKT-sikkerhetsutvalget/id2570775/, IKT-sikkerhetsutvalget]];
+        end note
+        
+        :Legislation and policiy;
+        note right
+            **2018-12-03 report:**
+            Establish a new IT Security Policy
+            critical public infrastructure by both
+            private and public entities.
+            
+            **Manadate:**
+
+        end note
+        :[[https://www.regjeringen.no/en/dep/jd/id463/, Ministry of Justice and Public Security]];
+        note right
+            The Ministry of Justice and Public Security is
+            responsible for the preservation and development
+            of basic guarantees of the rule of law.
+        end note
+        :National Cyber Security Strategy;
+        note right
+            **Vision**
+            In Norway, it is safe to use digital services. Private
+            individuals and companies have confidence in national
+            security, and trust that the welfare and democratic rights
+            of the individual are being safeguarded in a digitalised
+            society.
+
+            **Strategic Goals**
+            1. Norwegian companies digitalise in a secure and
+            trustworthy manner, and are able to protect themselves
+            against cyber incidents
+
+            2. Critical societal functions are supported by a robust and
+            reliable digital infrastructure
+            
+            3. Improved cyber security competence is aligned with the
+            needs of society
+            
+            4. Society has improved ability to detect and handle cyber
+            attacks
+            
+            5. The police have strengthened their ability to prevent
+            and combat cyber crime
+        end note
+        :
+    }
+
+
     partition Paragraph1 #Coral {
         :**Topic Sentence**
         The issue of definition;
@@ -48,6 +198,7 @@ partition **Body** {
         :Summarize NSM and PST reports relevant
         to the 2 industries in scope;
     }
+
 
     partition Paragraph3 {
         :**Topic Sentence**
@@ -73,7 +224,8 @@ partition **Body** {
         to CySec may be that better;
         :Provide example and justify such an approach;
     }
-    
+
+
     partition Paragraph4 {
         :**Topic Sentence**
         The case of trust;
@@ -165,3 +317,10 @@ entity "TEST" as test {
 }
 
 @enduml
+
+@startmindmap
++ Norwegian Government
+++ 
+
+
+@endmindmap

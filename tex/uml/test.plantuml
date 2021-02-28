@@ -1,0 +1,15 @@
+@startuml
+
+entity "TEST_OBJECT" as testobj {
+    Test
+}
+ 
+@enduml
+
+@startmindmap
+
+- starting_point
+-- branch1
+-- branch2
+
+@endmindmap
