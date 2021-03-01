@@ -55,9 +55,163 @@ partition **Body** {
     Partition Paragraph1 {
         :**Topic Sentence***
         The EU approach;
+        
+        :Ursula von der Leyen to Lead the EU Commission;
+        note right
+            [[https://ec.europa.eu/commission/presscorner/detail/en/IP_19_5542 The von der Leyen Commission]]
+            - The European Commission as formed in 2019-09-10
+
+            New motto: "for a Union that strives for more"
+
+            The new commission regards establishing a set of
+            of new and mordern legislation to address international
+            trade and cooperation on the global internet
+            platform.
+
+            Pursuing Pan-European privacy and democratic
+            cultures and laws, while allowing for a secure and
+            effective transaction within the Euro zone and with
+            its international partners, to be front and center.
+
+            Excerpt from the commission web site:
+            "At the heart of our work is the need to address the
+            changes in climate, technology and demography that
+            are transforming our societies and way of life.
+            
+            Existing powers are going down new paths alone.
+            New powers are emerging and consolidating. This has
+            left a feeling of unease and anxiety in many
+            communities across Europe.
+            
+            The EU must lead the transition to a healthy planet
+            and a new digital world. But it can only do so
+            by bringing people together and upgrading our
+            unique social market economy to fit today's new
+            ambitions."
+
+            Executive Vice-President [[https://ec.europa.eu/commission/commissioners/2019-2024/vestager_en Margrethe Vestager]] (Denmark)
+            - Coordinate EU's effort regarding Information
+            Technologies and Digital Transformation.
+            - Supported by EU Directorate-General for Competetion
+
+            Executive Vice-President [[https://ec.europa.eu/commission/commissioners/2019-2024/dombrovskis_en Valdis Dombrovskis]] (Latvia)
+            - Coordinate the work on an Economi that Works
+            for the people and EU's financial services
+            - Supported by EU Directorate-General for Financial
+            Stability, Financial Services and Capital Markets
+            Union.
+
+
+            [[https://ec.europa.eu/info/strategy/priorities-2019-2024/europe-fit-digital-age_en A Europe fit for the digital age]]
+            An area of priority by the new European Commission.
+        end note
+
+        :Key Commissions, Departments and Agencies addressing Cyber Security;
+        note right
+            Commisions 6 priorities for 2019-2024
+            - European Green Deal
+            - Promoting our European Way of Life
+            - An Economy that Works for People
+            - A new push for European democracy
+            - A Stronger Europe in the World
+            - [[https://ec.europa.eu/info/strategy/priorities-2019-2024/europe-fit-digital-age_en A Europe Fit for the Digital Age]] (The Commissioners group responsible to implement NCSS) - [[https://ec.europa.eu/commission/commissioners/2019-2024/vestager_en Margrethe Vestager]]
+            -- The 6 "actions" identified for the "A Fit for the Digital Age" priority:
+            --- https://ec.europa.eu/commission/commissioners/2019-2024_en#bootstrap-fieldgroup-nav-item--commissioners-group--2
+            --- [[https://ec.europa.eu/info/strategy/priorities-2019-2024/europe-fit-digital-age/excellence-trust-artificial-intelligence_en Artificial Intelligence]]
+            --- [[[https://ec.europa.eu/info/strategy/priorities-2019-2024/europe-fit-digital-age/european-data-strategy_en European data strategy]]]
+            --- [[https://ec.europa.eu/info/strategy/priorities-2019-2024/europe-fit-digital-age/european-industrial-strategy_en European industrial strategy]]
+            --- [[https://ec.europa.eu/digital-single-market/en/policies/high-performance-computing High Performing Computing (HPC)]]
+            --- [[https://ec.europa.eu/info/strategy/priorities-2019-2024/europe-fit-digital-age/digital-markets-act-ensuring-fair-and-open-digital-markets_en Digital Markets Act]]
+            --- [[https://ec.europa.eu/info/strategy/priorities-2019-2024/europe-fit-digital-age/digital-services-act-ensuring-safe-and-accountable-online-environment_en Digital Services Act]]
+            --- [[https://ec.europa.eu/digital-single-market/en/cyber-security Cyber Security]]
+            --- [[https://ec.europa.eu/digital-single-market/en/policies/digital-skills Digital Skills]]
+            --- [[https://ec.europa.eu/digital-single-market/en/policies/improving-connectivity-and-access Connectivity]]
+
+            
+            Key Commissions and Agency within the European Union responsible for implementation of the "Europe Fit for the Digital Age" strategy:
+            - [[https://ec.europa.eu/commission/commissioners/2019-2024_en#bootstrap-fieldgroup-nav-item--commissioners-group--2 The European Commission]]
+            --- [[https://ec.europa.eu/commission/commissioners/2019-2024/vestager_en Margrethe Vestager]] - A Europe Fit for the Digital Age
+            --- [[https://ec.europa.eu/commission/commissioners/2019-2024/breton_en Thierry Breton]] - Internal Market (Department)
+            --- [[https://ec.europa.eu/commission/commissioners/2019-2024/gabriel_en Mariya Gabriel]] - Innovation, Research, Culture, Education and Youth
+            --- [[https://ec.europa.eu/commission/commissioners/2019-2024/schmit_en Nicolas Schmit]] - Jobs and Social Rights
+            --- [[https://ec.europa.eu/commission/commissioners/2019-2024/reynders_en Didier Reynders]] - Justice
+            ---- Responsible for the policy on [[https://ec.europa.eu/digital-single-market/en/cybersecurity-strategy Cyber Security Strategy]]:
+            
+            - High Representative of the Union for Foreign Affairs and Security Policy
+
+            [[https://ec.europa.eu/info/departments_en Departments and executive agencies]]
+
+            The [[https://ec.europa.eu/info/departments/migration-and-home-affairs_en Directorate-General Home]] - Migration and Home Affairs
+            --- COMMISSIONER - Ylva Johansson
+            --- DIRECTOR-GENERAL - Monique Pariat
+            --- DEPUTY DIRECTOR-GENERAL - Olivier Onidi
+            --- DEPUTY DIRECTOR-GENERAL - Johannes Luchner
+            --- DEPUTY DIRECTOR-GENERAL - Beate Gminder
+            ---- Responsible for EU Internal Security and the [[https://ec.europa.eu/home-affairs/news/commission-proposes-new-directive-enhance-resilience-critical-entities-providing-essential_en NIS2 Directive]]
+            
+            - The [[https://ec.europa.eu/info/departments/communications-networks-content-and-technology_en Directorate‑General]] for Communications Networks, Content and Technology
+            --- Commissioner - Thierry Breton
+            --- EXECUTIVE VICE-PRESIDENT - Margrethe Vestager
+            --- DIRECTOR-GENERAL - Roberto Viola
+            --- DEPUTY DIRECTOR-GENERAL - Khalil Rouhana
+            --- HORS CLASSE ADVISER - Zoran Stančič
+            ---- Responsible to develop a digital single market to generate smart, sustainable and inclusive growth in Europe and Unit H.2
+
+            - Cybersecurity & Digital Privacy Policy [[https://ec.europa.eu/digital-single-market/en/content/cybersecurity-digital-privacy-policy-unit-h2 Team]] (Unit H.2)
+            --- HEAD OF UNIT - Jakub Boratynski
+            ---- Responsible for ENISA, The Certification Group, co-lead the EU Cyber Security Strategy and represents Directorate‑General in the CERT-EU Board
+
+            - The Stakeholder Cybersecurity [[https://ec.europa.eu/digital-single-market/en/news/call-applications-selection-members-stakeholder-cybersecurity-certification-group Certification Group]]
+            -- Types of intitutes that has applied consists of:
+            -- academic institutions,
+            -- consumer organisations,
+            -- conformity assessment bodies,
+            -- standard developing organisations,
+            -- companies,
+            -- trade associations
+            -- and other membership organisations
+            ---- Responsible for advising the Commission and ENISA on strategic issues regarding cybersecurity certification, and assisting the Commission in the preparation of the Union rolling work programme.
+
+            - [[https://ec.europa.eu/digital-single-market/en/policies/75984/3587 Policies on Cyber Securtity]] landing page.
+            -- A Cyber Security centric, as opposed to commission, department or agency centric view.
+
+            These 2 enteties have set as EU's Cyber Security Strategy objective
+            as follows:
+            1) resilience, technological sovereignty and leadership;
+            2) operational capacity to prevent, deter and respond;
+            3) cooperation to advance a global and open cyberspace.
+
+            The strategy will be implemented by UE utilization of:
+            - Regulations (1 of 3 types of EU legislations)
+            - Financial investments (Predictied to quadruple previous investments)
+            - and Policy initiatives (Decisions and Directives 2 of the 3 types of EU legislations)
+
+            "The aim of this strategy is to bolster Europe’s collective
+            resilience against cyber threats and ensure that all
+            citizens and businesses can fully benefit from trustworthy
+            and reliable services and digital tools."
+            
+            "it (The strategy) outlines how a Joint Cyber Unit can ensure the most
+            effective response to cyber threats using the collective resources and
+            expertise available to Member States and the EU."
+
+            The NCSS identifies 4 cyber communities whom must be able to
+            work collaboratively and immediately coordinate a response on
+            threaths and attacks on Europes Digital infrastructure:
+            - Internal market entities ([[https://ec.europa.eu/commission/commissioners/2019-2024/breton_en Thierry Breton]])
+            - Law enforcement
+            - Diplomacy
+            - Defence
+        end note
+
+
         :The EU legislation process;
         note right
-            A directive is 1 of 3 type of legislative acts, [[https://ec.europa.eu/info/law/law-making-process/types-eu-law_en, legal acts or laws]], in EU.
+            The Commission proposes a Directive
+            - A directive is 1 of 3 type of legislative acts, [[https://ec.europa.eu/info/law/law-making-process/types-eu-law_en legal acts or laws]], in EU.
+
+            The EU Council and the Parliament will have to litigate and process the directive for approval
+            - The act can be be commented on via "[[https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/12462-Enhancement-of-European-policy-on-critical-infrastructure-protection Have your say]]" by midnight in Brussels 2021-02-11 
 
             3 type are:
             - Decision
@@ -66,16 +220,30 @@ partition **Body** {
             - Regulation
                 (Example: GDPR)
         end note
+
         :NIS;
         note right 
             NIS = European Network and Information Security Directive,
             [[https://www.enisa.europa.eu/topics/nis-directive]] 
         end note
+        
+        :NIS2;
+        note right
+            2020-12-16:
+            EU Commission proposal for a revised Network and
+            Information Systems Directive (NIS2)
+
+        end note
+
         :NCSS;
         note right
             European Security Union
-            [[https://ec.europa.eu/info/strategy/priorities-2019-2024/promoting-our-european-way-life/european-security-union_en, new NCSS]]
+            [[https://ec.europa.eu/info/strategy/priorities-2019-2024/promoting-our-european-way-life/european-security-union_en new NCSS]]
+            Presented on 2020-12-16
         end note
+
+
+
         :Pan-European-Union standard;
     }
 
@@ -88,17 +256,46 @@ partition **Body** {
 
         :Councils and committees;
         note right
-            [[https://www.regjeringen.no/no/dokumenter/i2/id2681603/, Ministry of Foreign Affairs]]
-            Thierry Breton
-            Commission of Digital Services, ePrivacy,
-            and EU's dta strategy.
+            [[https://www.regjeringen.no/en/dep/ud/id833/ Ministry of Foreign Affairs]]
+            
+            EU Delegation releases a report in 2019-10-07**:
+            [[https://www.regjeringen.no/no/dokumenter/ny-kommisjon-digitale-leftovers-indre-marked-for-cybersikkerhet-og-google/id2672852/ Rapport av delegasjonen]]
+            - "Ny Kommisjon, digitale 'leftovers',
+            indre marked for cybersikkerhet og Google."
+
+            The report conlcudes:
+            A new EU "Geopolitical Commisson" established and
+            to be lead by Ursula van der Leyen to address
+            international affairs including, and putting
+            Information and Cyber Security as a major topic.
+
+            Legislations regarding global transactions and
+            internet economy are in flux. New rules and regulations
+            are in constant revision.
+
+
+
+            The ministry appoints Mr. Thierry Breton to
+            establish and lead a new commission to implement
+            the next digital agenda for Norway.
+            
+            - Commission of Digital Services, ePrivacy,
+            and EU's data strategy
+            
+            The commission releases a **report in 2019-12-09**:
+            [[https://www.regjeringen.no/no/dokumenter/i2/id2681603/ Rapport av Trond Helge Bårdsen]]
+            - "IKT- og forvaltningsråd ved Norges
+            delegasjon til EU"
+
+            The report concludes:
+
         end note
         
         :What are NOU (Norges offentlige utredninger);
         note right
             **Definition**
             NOU = Norges offentlige utredninger
-            by [[https://snl.no/Norges_offentlige_utredninger_(NOU), Norges Store Leksikon]]
+            by [[https://snl.no/Norges_offentlige_utredninger_(NOU) Norges Store Leksikon]]
 
             **The Process**
             - A government or any of its departments recognizes a problem-area,
