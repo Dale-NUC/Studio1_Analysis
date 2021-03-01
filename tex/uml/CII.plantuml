@@ -52,7 +52,7 @@ partition **Body** {
 
     }
 
-    Partition Paragraph1 {
+    partition Paragraph1 {
         :**Topic Sentence***
         The EU approach;
         
@@ -114,21 +114,23 @@ partition **Body** {
             - An Economy that Works for People
             - A new push for European democracy
             - A Stronger Europe in the World
-            - [[https://ec.europa.eu/info/strategy/priorities-2019-2024/europe-fit-digital-age_en A Europe Fit for the Digital Age]] (The Commissioners group responsible to implement NCSS) - [[https://ec.europa.eu/commission/commissioners/2019-2024/vestager_en Margrethe Vestager]]
+            - [[https://ec.europa.eu/info/strategy/priorities-2019-2024/europe-fit-digital-age_en A Europe Fit for the Digital Age]] (The Commissioners
+            group responsible to implement NCSS) - [[https://ec.europa.eu/commission/commissioners/2019-2024/vestager_en Margrethe Vestager]]
             -- The 6 "actions" identified for the "A Fit for the Digital Age" priority:
-            --- https://ec.europa.eu/commission/commissioners/2019-2024_en#bootstrap-fieldgroup-nav-item--commissioners-group--2
-            --- [[https://ec.europa.eu/info/strategy/priorities-2019-2024/europe-fit-digital-age/excellence-trust-artificial-intelligence_en Artificial Intelligence]]
-            --- [[[https://ec.europa.eu/info/strategy/priorities-2019-2024/europe-fit-digital-age/european-data-strategy_en European data strategy]]]
-            --- [[https://ec.europa.eu/info/strategy/priorities-2019-2024/europe-fit-digital-age/european-industrial-strategy_en European industrial strategy]]
-            --- [[https://ec.europa.eu/digital-single-market/en/policies/high-performance-computing High Performing Computing (HPC)]]
-            --- [[https://ec.europa.eu/info/strategy/priorities-2019-2024/europe-fit-digital-age/digital-markets-act-ensuring-fair-and-open-digital-markets_en Digital Markets Act]]
-            --- [[https://ec.europa.eu/info/strategy/priorities-2019-2024/europe-fit-digital-age/digital-services-act-ensuring-safe-and-accountable-online-environment_en Digital Services Act]]
-            --- [[https://ec.europa.eu/digital-single-market/en/cyber-security Cyber Security]]
-            --- [[https://ec.europa.eu/digital-single-market/en/policies/digital-skills Digital Skills]]
-            --- [[https://ec.europa.eu/digital-single-market/en/policies/improving-connectivity-and-access Connectivity]]
+            --- [[https://ec.europa.eu/commission/commissioners/2019-2024_en#bootstrap-fieldgroup-nav-item-commissioners-group-2 Commissioners groups]]
+            ---- [[https://ec.europa.eu/info/strategy/priorities-2019-2024/europe-fit-digital-age/excellence-trust-artificial-intelligence_en Artificial Intelligence]]
+            ---- [[[https://ec.europa.eu/info/strategy/priorities-2019-2024/europe-fit-digital-age/european-data-strategy_en European data strategy]]]
+            ---- [[https://ec.europa.eu/info/strategy/priorities-2019-2024/europe-fit-digital-age/european-industrial-strategy_en European industrial strategy]]
+            ---- [[https://ec.europa.eu/digital-single-market/en/policies/high-performance-computing High Performing Computing (HPC)]]
+            ---- [[https://ec.europa.eu/info/strategy/priorities-2019-2024/europe-fit-digital-age/digital-markets-act-ensuring-fair-and-open-digital-markets_en Digital Markets Act]]
+            ---- [[https://ec.europa.eu/info/strategy/priorities-2019-2024/europe-fit-digital-age/digital-services-act-ensuring-safe-and-accountable-online-environment_en Digital Services Act]]
+            ---- [[https://ec.europa.eu/digital-single-market/en/cyber-security Cyber Security]]
+            ---- [[https://ec.europa.eu/digital-single-market/en/policies/digital-skills Digital Skills]]
+            ---- [[https://ec.europa.eu/digital-single-market/en/policies/improving-connectivity-and-access Connectivity]]
 
             
-            Key Commissions and Agency within the European Union responsible for implementation of the "Europe Fit for the Digital Age" strategy:
+            Key Commissions and Agency within the European Union responsible for implementation
+            of the "Europe Fit for the Digital Age" strategy:
             - [[https://ec.europa.eu/commission/commissioners/2019-2024_en#bootstrap-fieldgroup-nav-item--commissioners-group--2 The European Commission]]
             --- [[https://ec.europa.eu/commission/commissioners/2019-2024/vestager_en Margrethe Vestager]] - A Europe Fit for the Digital Age
             --- [[https://ec.europa.eu/commission/commissioners/2019-2024/breton_en Thierry Breton]] - Internal Market (Department)
@@ -155,11 +157,13 @@ partition **Body** {
             --- DIRECTOR-GENERAL - Roberto Viola
             --- DEPUTY DIRECTOR-GENERAL - Khalil Rouhana
             --- HORS CLASSE ADVISER - Zoran Stančič
-            ---- Responsible to develop a digital single market to generate smart, sustainable and inclusive growth in Europe and Unit H.2
+            ---- Responsible to develop a digital single market to generate smart,
+            sustainable and inclusive growth in Europe and Unit H.2
 
             - Cybersecurity & Digital Privacy Policy [[https://ec.europa.eu/digital-single-market/en/content/cybersecurity-digital-privacy-policy-unit-h2 Team]] (Unit H.2)
             --- HEAD OF UNIT - Jakub Boratynski
-            ---- Responsible for ENISA, The Certification Group, co-lead the EU Cyber Security Strategy and represents Directorate‑General in the CERT-EU Board
+            ---- Responsible for ENISA, The Certification Group, co-lead the EU Cyber Security Strategy
+            and represents Directorate‑General in the CERT-EU Board
 
             - The Stakeholder Cybersecurity [[https://ec.europa.eu/digital-single-market/en/news/call-applications-selection-members-stakeholder-cybersecurity-certification-group Certification Group]]
             -- Types of intitutes that has applied consists of:
@@ -170,7 +174,9 @@ partition **Body** {
             -- companies,
             -- trade associations
             -- and other membership organisations
-            ---- Responsible for advising the Commission and ENISA on strategic issues regarding cybersecurity certification, and assisting the Commission in the preparation of the Union rolling work programme.
+            ---- Responsible for advising the Commission and ENISA on strategic issues
+            regarding cybersecurity certification, and assisting the Commission in the
+            preparation of the Union rolling work programme.
 
             - [[https://ec.europa.eu/digital-single-market/en/policies/75984/3587 Policies on Cyber Securtity]] landing page.
             -- A Cyber Security centric, as opposed to commission, department or agency centric view.
@@ -248,7 +254,7 @@ partition **Body** {
     }
 
 
-    Partition Paragraph1 {
+    partition Paragraph1 {
         :**Topic Sentence***
         The Norwegian approach;
         
@@ -256,6 +262,21 @@ partition **Body** {
 
         :Councils and committees;
         note right
+            Key stakeholders
+            Governmental offices and ministries:
+            - Minister of Justice and Public Security - Monica Mæland (Conservative Party)
+            - Ministry of Defence - Frank Bakke-Jensen (Conservative Party)
+            - Ministry of Local Government and Modernisation - Nikolai Astrup (Conservative Party) Linda Hofstad Helleland (Conservative Party)
+            - Ministry of Transport - Knut Arild Hareide (Christian Democratic Party)
+            - Ministry of Trade, Industry and Fisheries - Iselin Nybø (Liberal Party) Odd Emil Ingebrigtsen (Conservative Party)
+            - Office of the Prime Minister - Erna Solberg (Conservative Party)
+            - Nasjonalt cybersikkerhetssenter
+            Public entities, supervisory authorities and other organizations
+            - 
+
+            [[https://www.regjeringen.no/en/dep/jd/id463/ Minister of Justice and Public Security]]
+            Minister: [[https://www.regjeringen.no/en/dep/jd/organisation/minister-of-justice-and-public-security-monica-maland/id2687627/ Monica Mæland]] (Conservative Party)
+
             [[https://www.regjeringen.no/en/dep/ud/id833/ Ministry of Foreign Affairs]]
             
             EU Delegation releases a report in 2019-10-07**:
@@ -326,6 +347,44 @@ partition **Body** {
         :Stortingsmelding/White Paper;
         note right
             :[[https://www.regjeringen.no/no/dep/jd/org/styre-rad-og-utval/innstillinger/innstillinger-fra-utvalg/innstillinger-levert-i-2018/IKT-sikkerhetsutvalget/id2570775/, IKT-sikkerhetsutvalget]];
+            Skattedirektør Hans Christian Holte, Oslo (leder)
+            Direktør - Cybersikkerhet Terje Wold, Tromsø
+            Administrerende direktør Håkon Grimstad, Trondheim
+            Head of Information Security Lillian Røstad, Nesodden
+            Direktør internett og nye medier Torgeir A. Waterhouse, Oslo
+            Forskningsleder Marie Moe, Trondheim
+            Professor Lee A. Bygrave, Oslo
+            Lagdommer Therese Steen, Oslo
+
+            The Committee will establish a reference group and consult with
+            stakeholders from different ministries and departments:
+            - Minister of Justice and Public Security - Monica Mæland (Conservative Party)
+            - Ministry of Defence - Frank Bakke-Jensen (Conservative Party)
+            - Ministry of Local Government and Modernisation - Nikolai Astrup (Conservative Party) Linda Hofstad Helleland (Conservative Party)
+            - Ministry of Transport - Knut Arild Hareide (Christian Democratic Party)
+            - Ministry of Trade, Industry and Fisheries - Iselin Nybø (Liberal Party) Odd Emil Ingebrigtsen (Conservative Party)
+            - Office of the Prime Minister - Erna Solberg (Conservative Party)
+            - Nasjonalt cybersikkerhetssenter
+
+            The committees effort has its foundation from:
+            - [[https://www.regjeringen.no/no/dokumenter/nou-2015-13/id2464370/ NOU]] 2015: 13 Digital sårbarhet – sikkert samfunn ble våre digitale sårbarheter kartlagt
+            - [[https://www.regjeringen.no/no/dokumenter/meld.-st.-10-20162017/id2523238/ Meld]]. St. 10 (2016–2017) om samfunnssikkerhet
+            - [[https://www.regjeringen.no/no/dokumenter/meld.-st.-38-20162017/id2555996/ Meld]]. St. 38 (2016–2017) IKT-sikkerhet — Et felles ansvar
+
+            The committee must adhere to:
+            - Prop. 153 L (2016 – 2017) [[https://www.regjeringen.no/no/dokumenter/prop.-153-l-2016-2017/id2556988/ Lov om nasjonal sikkerhet]]
+            -- Proposal from the Ministry of Defense based on a NOU from 2016: 19
+
+
+            The committees deliverable was a [[https://www.regjeringen.no/no/dokumenter/nou-2018-14/id2621037/ NOU ]] 2018: 14 IKT-sikkerhet i alle ledd — Organisering og regulering av nasjonal IKT-sikkerhet, white paper
+            addressing 3 key issues (released on 2018-12-03):
+            1) Applicability and aptness
+            2) Organization and coordination
+            3) According to findings in 1 and 2, establish and enforce
+            effective regulations following EU NIS Directive.
+
+
+
         end note
         
         :Legislation and policiy;
@@ -384,6 +443,10 @@ partition **Body** {
             cyberattacks, along with the public sector and manufacturing, yet cyber readiness and
             awareness among businesses and individuals remain low18, and there is a major
             shortage of cybersecurity skills in the workforce19."
+
+            Source: [[https://ec.europa.eu/eurostat/documents/2995521/10335060/9-13012020-BP-EN.pdf/f1060f2b-b141-b250-7f51-85c9704a5a5f ICT security measures taken by vast majority of
+         enterprises in the EU]]
+            A report document showing all the ICT threats and breaches recorded in the Euro zone.
         end note
     }
 
@@ -392,6 +455,8 @@ partition **Body** {
         The issue of definition;
         :Why definitions are important;
         :Norways definition differs from EU;
+        :ICT = Information and Communication Technology;
+        :CII = Critical Information Infrastructure;
         :Different country defines different threath models;
         :Diffent difinitions of priority;
     }
@@ -466,7 +531,13 @@ partition **Body** {
         France,
         The Netherlands,
         and Bulgaria. . ;
+        note right
+            Source: [[https://www.enisa.europa.eu/publications/an-evaluation-framework-for-cyber-security-strategies-1/annex-a-mapping-of-countries Mapping of Cyber Security Strategies]]
+            This document outlines the NCSS implementation for 18 EU member states as in 2014.
 
+            Source: [[https://www.enisa.europa.eu/publications/an-evaluation-framework-for-cyber-security-strategies An evaluation framework for Cyber Security Strategies]]
+            This document outlines how to evaluate ones NCSS implementation.
+        end note
     }
 
 }
