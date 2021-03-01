@@ -374,6 +374,19 @@ partition **Body** {
     }
 
 
+    partition Paragraph {
+        :**Topic Sentence**
+        The threat picture in the financial sector;
+        note right
+            Source: [[https://ec.europa.eu/digital-single-market/en/news/eus-cybersecurity-strategy-digital-decade The EU’s Cybersecurity Strategy for the Digital Decade]]
+            page. 4
+            "Digital services and the finance sector are among the most frequent targets of
+            cyberattacks, along with the public sector and manufacturing, yet cyber readiness and
+            awareness among businesses and individuals remain low18, and there is a major
+            shortage of cybersecurity skills in the workforce19."
+        end note
+    }
+
     partition Paragraph1 #Coral {
         :**Topic Sentence**
         The issue of definition;
