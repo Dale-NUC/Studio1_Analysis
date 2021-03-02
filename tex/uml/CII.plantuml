@@ -294,11 +294,9 @@ partition **Body** {
             internet economy are in flux. New rules and regulations
             are in constant revision.
 
-
-
-            The ministry appoints Mr. Thierry Breton to
+            ---The ministry appoints Mr. Thierry Breton to---
             establish and lead a new commission to implement
-            the next digital agenda for Norway.
+            the next digital agenda for Norway.---
             
             - Commission of Digital Services, ePrivacy,
             and EU's data strategy
@@ -356,7 +354,7 @@ partition **Body** {
             Professor Lee A. Bygrave, Oslo
             Lagdommer Therese Steen, Oslo
 
-            The Committee will establish a reference group and consult with
+            The Committee established a reference group and consult with
             stakeholders from different ministries and departments:
             - Minister of Justice and Public Security - Monica Mæland (Conservative Party)
             - Ministry of Defence - Frank Bakke-Jensen (Conservative Party)
@@ -374,16 +372,34 @@ partition **Body** {
             The committee must adhere to:
             - Prop. 153 L (2016 – 2017) [[https://www.regjeringen.no/no/dokumenter/prop.-153-l-2016-2017/id2556988/ Lov om nasjonal sikkerhet]]
             -- Proposal from the Ministry of Defense based on a NOU from 2016: 19
+            - Personvernregelverk / Privacy law
+            - GDPR
 
 
-            The committees deliverable was a [[https://www.regjeringen.no/no/dokumenter/nou-2018-14/id2621037/ NOU ]] 2018: 14 IKT-sikkerhet i alle ledd — Organisering og regulering av nasjonal IKT-sikkerhet, white paper
+            The committee's deliverable was a white paper[[https://www.regjeringen.no/no/dokumenter/nou-2018-14/id2621037/ NOU ]] 2018: 14 IKT-sikkerhet i alle ledd — Organisering og regulering av nasjonal IKT-sikkerhet, white paper
             addressing 3 key issues (released on 2018-12-03):
             1) Applicability and aptness
             2) Organization and coordination
             3) According to findings in 1 and 2, establish and enforce
             effective regulations following EU NIS Directive.
 
+            The [[https://www.regjeringen.no/no/aktuelt/utvalg-foreslar-flere-tiltak-for-en-sterkere-nasjonal-ikt-sikkerhet/id2621146/ press release from IKT Committee concludes]]:
+            Norway's Information and Communication Technology Security
+            was inadequately legislated and regulated.
 
+            The report outlined the need for a law to be passed for
+            Governmental Procurement and acquisitions where
+            ICT Security is relevant.
+            
+            New laws and regulation must be establish to regulate
+            ICT Security where Public Services and Critial Information
+            and Communication Infrastructure can be impacted.
+
+            A centralized national ICT Security organization is
+            proposed to be established. An organization who can
+            operate horizontally between state departments, agencies
+            and private entities. Who's responsibility is to manage
+            and coordinate Norway's ICT Security effort.
 
         end note
         
@@ -403,6 +419,7 @@ partition **Body** {
             responsible for the preservation and development
             of basic guarantees of the rule of law.
         end note
+
         :National Cyber Security Strategy;
         note right
             **Vision**
@@ -429,7 +446,6 @@ partition **Body** {
             5. The police have strengthened their ability to prevent
             and combat cyber crime
         end note
-        :
     }
 
 
@@ -437,16 +453,18 @@ partition **Body** {
         :**Topic Sentence**
         The threat picture in the financial sector;
         note right
-            Source: [[https://ec.europa.eu/digital-single-market/en/news/eus-cybersecurity-strategy-digital-decade The EU’s Cybersecurity Strategy for the Digital Decade]]
-            page. 4
-            "Digital services and the finance sector are among the most frequent targets of
-            cyberattacks, along with the public sector and manufacturing, yet cyber readiness and
-            awareness among businesses and individuals remain low18, and there is a major
+            Source: [[https://ec.europa.eu/digital-single-market/en/news/eus-cybersecurity-strategy-digital-decade The EU’s Cybersecurity Strategy]]  for the Digital Decade page. 4
+            "Digital services and the finance sector are among
+            the most frequent targets of cyberattacks, along
+            with the public sector and manufacturing, yet cyber
+            readiness and awareness among businesses and
+            individuals remain low18, and there is a major
             shortage of cybersecurity skills in the workforce19."
 
-            Source: [[https://ec.europa.eu/eurostat/documents/2995521/10335060/9-13012020-BP-EN.pdf/f1060f2b-b141-b250-7f51-85c9704a5a5f ICT security measures taken by vast majority of
-         enterprises in the EU]]
-            A report document showing all the ICT threats and breaches recorded in the Euro zone.
+            Source: [[https://ec.europa.eu/eurostat/documents/2995521/10335060/9-13012020-BP-EN.pdf/f1060f2b-b141-b250-7f51-85c9704a5a5f ICT security measures]]
+            taken by vast majority of enterprises in the EU
+            A report document showing all the ICT threats
+            and breaches recorded in the Euro zone.
         end note
     }
 
