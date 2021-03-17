@@ -16,5 +16,90 @@
   {}
 \endgroup
 
+
+\refsection{0}
+  \datalist[entry]{apa/global//global/global}
+    \entry{EuropeanCommission2017}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a1b813a6e85874b4c945aec2cdbea74c}{%
+           family={{European Commission}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {European Commission}%
+      }
+      \list{location}{1}{%
+        {Brussels}%
+      }
+      \strng{namehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{fullhash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{bibnamehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{authorbibnamehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{authornamehash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \strng{authorfullhash}{a1b813a6e85874b4c945aec2cdbea74c}
+      \field{sortinit}{E}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Making the most of NIS - towards the effective implementation of Directive (EU) 2016/1148 concerning measures for a high common level of security of network and information systems across the Union.}
+      \field{month}{10}
+      \field{title}{{COMMUNICATION FROM THE COMMISSION TO THE EUROPEAN PARLIAMENT AND THE COUNCIL CORRIGENDUM}}
+      \field{type}{techreport}
+      \field{year}{2017}
+      \field{pages}{1\bibrangedash 6}
+      \range{pages}{6}
+      \verb{file}
+      \verb :C$\backslash$:/Users/DalePeregrinoBada/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/European Commission - 2017 - COMMUNICATION FROM THE COMMISSION TO THE EUROPEAN PARLIAMENT AND THE COUNCIL CORRIGENDUM.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://ec.europa.eu/info/law/better-regulation/have-your-say{\_}en
+      \endverb
+      \verb{url}
+      \verb https://ec.europa.eu/info/law/better-regulation/have-your-say%7B%5C_%7Den
+      \endverb
+    \endentry
+    \entry{VIIRA2018}{misc}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=a1b813a6e85874b4c945aec2cdbea74c}{%
+           family={{European Commission}},
+           familyi={E\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=3324dbea83a8f6b45ad7b2abf993b40f}{%
+           family={VIIRA},
+           familyi={V\bibinitperiod},
+           given={TOOMAS},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6c481cf0378dec69bc35134da931d697}
+      \strng{fullhash}{6c481cf0378dec69bc35134da931d697}
+      \strng{bibnamehash}{6c481cf0378dec69bc35134da931d697}
+      \strng{authorbibnamehash}{6c481cf0378dec69bc35134da931d697}
+      \strng{authornamehash}{6c481cf0378dec69bc35134da931d697}
+      \strng{authorfullhash}{6c481cf0378dec69bc35134da931d697}
+      \field{sortinit}{E}
+      \field{sortinithash}{c554bd1a0b76ea92b9f105fe36d9c7b0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Acting in accordance with the ordinary legislative procedure (2), Whereas: (1) Network and information systems and services play a vital role in society. Their reliability and security are essential to economic and societal activities, and in particular to the functioning of the internal market. (2) The magnitude, frequency and impact of security incidents are increasing, and represent a major threat to the functioning of network and information systems. Those systems may also become a target for deliberate harmful actions intended to damage or interrupt the operation of the systems. Such incidents can impede the pursuit of economic activities, generate substantial financial losses, undermine user confidence and cause major damage to the economy of the Union. (3) Network and information systems, and primarily the internet, play an essential role in facilitating the cross-border movement of goods, services and people. Owing to that transnational nature, substantial disruptions of those systems, whether intentional or unintentional and regardless of where they occur, can affect individual Member States and the Union as a whole. The security of network and information systems is therefore essential for the smooth functioning of the internal market. (4) Building upon the significant progress within the European Forum of Member States in fostering discussions and exchanges on good policy practices, including the development of principles for European cyber-crisis cooperation, a Cooperation Group, composed of representatives of Member States, the Commission, and the}
+      \field{booktitle}{EUR-Lex}
+      \field{number}{May}
+      \field{title}{{NIS Directive}}
+      \field{volume}{2014}
+      \field{year}{2016}
+      \field{pages}{1\bibrangedash 30}
+      \range{pages}{30}
+      \verb{urlraw}
+      \verb https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016L1148{\&}from=EN https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L{\_}.2016.194.01.0001.01.ENG{\&}toc=OJ:L:2016:194:TOC https://ec.europa.eu/digital-single-market/en/directive-securi
+      \endverb
+      \verb{url}
+      \verb https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32016L1148%7B%5C&%7Dfrom=EN%20https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L%7B%5C_%7D.2016.194.01.0001.01.ENG%7B%5C&%7Dtoc=OJ:L:2016:194:TOC%20https://ec.europa.eu/digital-single-market/en/directive-securi
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
 \endinput
 

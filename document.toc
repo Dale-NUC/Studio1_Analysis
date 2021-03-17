@@ -15,10 +15,28 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {2}What accouts for a successful Cyber Security Strategy?}{4}{section.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.1}The NIS}{4}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.1}The European Union's NIS Directive and its Annex}{4}{subsection.2.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3}Conclusion}{5}{section.3}%
+\contentsline {subsubsection}{\numberline {2.1.1}NIS' objectives}{5}{subsubsection.2.1.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {A}Appendix}{6}{appendix.A}%
+\contentsline {subsubsection}{\numberline {2.1.2}NIS' scope}{5}{subsubsection.2.1.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {B}Bibliography}{7}{appendix.B}%
+\contentsline {subsubsection}{\numberline {2.1.3}The NIS Trasposition}{7}{subsubsection.2.1.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.1.4}Review and continuos improvement}{7}{subsubsection.2.1.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2}Cyber Security Stakeholders in the European Union}{7}{subsection.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.3}The Norwegian National Cyber Security Strategy}{8}{subsection.2.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.4}Establishing Norways NCSS}{8}{subsection.2.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.4.1}Norways Objectives}{9}{subsubsection.2.4.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {2.4.2}Norways Objectives}{10}{subsubsection.2.4.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3}Conclusion}{11}{section.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A}Appendix}{12}{appendix.A}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {B}Bibliography}{13}{appendix.B}%
