@@ -1,0 +1,10 @@
+- Norway 		
+- Sweden 		
+- Denmark 		
+- Finland 		
+- Iceland 		
+- UK 		
+- Estonia 		
+- France 		
+- The Netherlands  		
+- Bulgaria  	Changed to Romania 16.02.21	

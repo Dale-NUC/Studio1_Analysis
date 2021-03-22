@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.11.16)  17 MAR 2021 09:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.11.16)  17 MAR 2021 10:32
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1195,43 +1195,47 @@ LaTeX Font Info:    Trying to load font information for TS1+cmss on input line 4
 File: ts1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 ) [1] [2]) [3] (/home/operations/Studies/Studio1_Analysis/tex/03_body_section_01.tex [4]
 Underfull \hbox (badness 10000) in paragraph at lines 61--61
-[][][]\T1/cmss/m/n/8 Please see more-de-tails re-gard-ing NIS2 in []$\T1/cmr/m/n/8 https : / / ec . europa . eu / digital-[]single-[]market / en / news /
+[][][]\T1/cmss/m/n/8 Please see more de-tails re-gard-ing NIS2 in []$\T1/cmr/m/n/8 https : / / ec . europa . eu / digital-[]single-[]market / en / news /
  []
 
-<tex/NIS1_Sectors_and_Scope.png, id=186, 345.54094pt x 376.40625pt>
+<tex/NIS1_Sectors_and_Scope.png, id=189, 345.54094pt x 376.40625pt>
 File: tex/NIS1_Sectors_and_Scope.png Graphic file (type png)
 <use tex/NIS1_Sectors_and_Scope.png>
 Package pdftex.def Info: tex/NIS1_Sectors_and_Scope.png  used on input line 64.
 (pdftex.def)             Requested size: 193.47578pt x 210.76308pt.
-<tex/NIS2_Sectors_and_Scope.png, id=187, 353.06906pt x 547.2947pt>
+<tex/NIS2_Sectors_and_Scope.png, id=190, 353.06906pt x 547.2947pt>
 File: tex/NIS2_Sectors_and_Scope.png Graphic file (type png)
 <use tex/NIS2_Sectors_and_Scope.png>
 Package pdftex.def Info: tex/NIS2_Sectors_and_Scope.png  used on input line 67.
 (pdftex.def)             Requested size: 193.47578pt x 299.91068pt.
 
-Underfull \vbox (badness 2547) has occurred while \output is active []
+Underfull \vbox (badness 1681) has occurred while \output is active []
 
  [5]
-Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [6 </home/operations/Studies/Studio1_Analysis/tex/NIS1_Sectors_and_Scope.png> </home/operations/Studies/Studio1_Analysis/tex/NIS2_Sectors_and_Scope.png>] [7]
-Overfull \hbox (71.00198pt too wide) in paragraph at lines 159--160
+LaTeX Warning: Reference `Successful_NCSS' on page 6 undefined on input line 74.
+
+
+Underfull \vbox (badness 7631) has occurred while \output is active []
+
+ [6 </home/operations/Studies/Studio1_Analysis/tex/NIS1_Sectors_and_Scope.png> </home/operations/Studies/Studio1_Analysis/tex/NIS2_Sectors_and_Scope.png>] [7] [8]
+Overfull \hbox (71.00198pt too wide) in paragraph at lines 162--163
 [][]$\T1/cmr/m/n/10 https : / / www . regjeringen . no / no / dep / jd / org / styre-[]rad-[]og-[]utval / innstillinger / innstillinger-[]fra-[]utvalg / innstillinger-[]levert-[]i-[]2018 /
  []
 
-[8]
-Overfull \hbox (13.84854pt too wide) in paragraph at lines 193--199
+[9]
+Overfull \hbox (13.84854pt too wide) in paragraph at lines 196--202
 []\T1/cmss/m/n/10 The com-mit-tee's de-liv-er-able was a white pa-per []$\T1/cmr/m/n/10 https : / / www . regjeringen . no / no / dokumenter / nou-[]2018-[]14 / id2621037/$[]
  []
 
 
-Overfull \hbox (44.56412pt too wide) in paragraph at lines 200--203
+Overfull \hbox (44.56412pt too wide) in paragraph at lines 203--206
 []\T1/cmss/m/n/10 The []$\T1/cmr/m/n/10 https : / / www . regjeringen . no / no / aktuelt / utvalg-[]foreslar-[]^^]ere-[]tiltak-[]for-[]en-[]sterkere-[]nasjonal-[]ikt-[]sikkerhet / id2621146/$[]
  []
 
-[9]) [10] (/home/operations/Studies/Studio1_Analysis/tex/04_conclusion.tex) [11] (/home/operations/Studies/Studio1_Analysis/tex/05_appendix.tex) [12] [13] (/home/operations/Studies/Studio1_Analysis/document.gls) 
+[10]) [11] (/home/operations/Studies/Studio1_Analysis/tex/04_conclusion.tex) [12] (/home/operations/Studies/Studio1_Analysis/tex/05_appendix.tex) [13] [14] (/home/operations/Studies/Studio1_Analysis/document.gls) 
 AED: lastpage setting LastPage
-[14
+[15
 
 ]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 155.
@@ -1241,24 +1245,28 @@ Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 155.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 155.
 Package rerunfilecheck Info: File `document.out' has not changed.
 (rerunfilecheck)             Checksum: 4C63039DC388F0AD68F72CDF5BF868B2;1436.
+
+
+LaTeX Warning: There were undefined references.
+
 Package logreq Info: Writing requests to 'document.run.xml'.
 \openout1 = `document.run.xml'.
 
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 155.
  ) 
 Here is how much of TeX's memory you used:
- 33464 strings out of 481239
- 610575 string characters out of 5920376
- 1432726 words of memory out of 5000000
- 48016 multiletter control sequences out of 15000+600000
+ 33468 strings out of 481239
+ 610626 string characters out of 5920376
+ 1432804 words of memory out of 5000000
+ 48018 multiletter control sequences out of 15000+600000
  547736 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  69i,11n,107p,1731b,4848s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texmf/fonts/type1/public/cm-super/sfrm0800.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsi1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss0600.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss0700.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss0800.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfss2074.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx1000.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx1728.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx2074.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfsx2488.pfb>
-Output written on /home/operations/Studies/Studio1_Analysis/document.pdf (16 pages, 364884 bytes).
+Output written on /home/operations/Studies/Studio1_Analysis/document.pdf (17 pages, 366700 bytes).
 PDF statistics:
- 369 PDF objects out of 1000 (max. 8388607)
- 326 compressed objects within 4 object streams
- 57 named destinations out of 1000 (max. 500000)
+ 378 PDF objects out of 1000 (max. 8388607)
+ 334 compressed objects within 4 object streams
+ 59 named destinations out of 1000 (max. 500000)
  188 words of extra memory for PDF output out of 10000 (max. 10000000)
 

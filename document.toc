@@ -27,16 +27,16 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.2}Cyber Security Stakeholders in the European Union}{7}{subsection.2.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.3}The Norwegian National Cyber Security Strategy}{8}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.3}The Norwegian National Cyber Security Strategy}{9}{subsection.2.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.4}Establishing Norways NCSS}{8}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.4}Establishing Norways NCSS}{9}{subsection.2.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.4.1}Norways Objectives}{9}{subsubsection.2.4.1}%
+\contentsline {subsubsection}{\numberline {2.4.1}Norways Objectives}{10}{subsubsection.2.4.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.4.2}Norways Objectives}{10}{subsubsection.2.4.2}%
+\contentsline {subsubsection}{\numberline {2.4.2}Norways Objectives}{11}{subsubsection.2.4.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3}Conclusion}{11}{section.3}%
+\contentsline {section}{\numberline {3}Conclusion}{12}{section.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {A}Appendix}{12}{appendix.A}%
+\contentsline {section}{\numberline {A}Appendix}{13}{appendix.A}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {B}Bibliography}{13}{appendix.B}%
+\contentsline {section}{\numberline {B}Bibliography}{14}{appendix.B}%
