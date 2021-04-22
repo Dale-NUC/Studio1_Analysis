@@ -1,11 +1,11 @@
 # Fdb version 3
-["biber document"] 1615951937 "document.bcf" "document.bbl" "document" 1616003073
+["biber document"] 1615951937 "document.bcf" "document.bbl" "document" 1616673366
   "document.bcf" 1615973572 115257 ac1771d7fd2fca51789f30c40ca810d2 "pdflatex"
   "tex/MyCollection.bib" 1615937705 3875 e3ce5bac5d4a41661fa724ddc60b5d21 ""
   (generated)
-  "document.blg"
   "document.bbl"
-["pdflatex"] 1615973567 "/home/operations/Studies/Studio1_Analysis/document.tex" "/home/operations/Studies/Studio1_Analysis/document.pdf" "document" 1616003073
+  "document.blg"
+["pdflatex"] 1615973567 "/home/operations/Studies/Studio1_Analysis/document.tex" "/home/operations/Studies/Studio1_Analysis/document.pdf" "document" 1616673366
   "/etc/texmf/web2c/texmf.cnf" 1605541955 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/home/operations/Studies/Studio1_Analysis/document.aux" 1615973572 5652 70ddef0771e73bbab59929e185ca5889 ""
   "/home/operations/Studies/Studio1_Analysis/document.tex" 1615946273 5282 394991e9e2e94af7c40461a16812e465 ""
@@ -272,14 +272,14 @@
   "tex/NIS2_Sectors_and_Scope.png" 1615945190 79113 8767d3a6cf555106206c98c562b45878 ""
   "tex/glossary.tex" 1615950810 2051 714fed3871c025375d6bd196aedc2cbb ""
   (generated)
-  "document.out"
-  "document.run.xml"
-  "document.bcf"
   "/home/operations/Studies/Studio1_Analysis/document.pdf"
+  "document.run.xml"
+  "document.log"
   "document.aux"
   "document.ist"
+  "document.bcf"
+  "/home/operations/Studies/Studio1_Analysis/document.log"
   "document.pdf"
   "document.glo"
+  "document.out"
   "document.toc"
-  "/home/operations/Studies/Studio1_Analysis/document.log"
-  "document.log"
